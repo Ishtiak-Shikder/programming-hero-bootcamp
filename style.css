@@ -1,0 +1,155 @@
+
+.container{
+    background-color: #1e1e1e;
+    margin-top: 50px;
+    margin-left: 170px;
+    margin-right: 90px;
+    
+
+}
+.container button{
+    font-size: 14px;
+    padding: 9px 25px;
+    color: rgb(255, 255, 255);
+     background-color: #fd6f00;
+     font-weight: 500;
+     margin: -10px 0;
+}
+
+
+.header img{
+    width: 200px;
+    height: 32px;
+}
+.menu{
+    margin-top: -9px;
+}
+.menu ul{
+   color: burlywood;
+   display: flex;
+   padding: 0 100px;
+   text-decoration: none;
+ 
+  
+}
+.menu li{
+    padding: 0 30px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 400;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.first-title{
+    color: #fff;
+    margin-top: 100px;
+    font-family: 800;
+}
+.first-title h1{
+    text-transform: uppercase;
+}
+.second-title{
+    color:var(--font-primary-color);
+    margin-top: -30px;
+}
+
+.second-title{
+    display: flex;
+}
+.second-title img{
+    height: 34px;
+    width: 34px;
+    margin-top: 25px;
+  padding: 0 16px;
+  
+}
+.second-title{
+    text-transform: uppercase;
+}
+.third-title {
+    margin-top :-30px;
+    color: var(--font-primary-color);   
+}
+.profile-image img{
+        width: 360px;
+        height: 350px;
+       
+        margin-right: 170px;
+        border-radius: 100%;
+}
+
+.profile-image{
+    text-align: right;
+    margin-top: -260px;
+}
+.third-title p{
+    font-size: 14px;
+    font-weight: 300;
+    margin-top: -10px;
+}
+.work{
+    display: flex;
+    margin-top: -6px;
+}
+.work img{
+    height: 30px;
+    width: 30px;
+    margin-top: 15px;
+  padding: 0 16px;
+}
+.work h3{
+    color: var(--font-primary-color);
+    font-weight: 300;
+}
+.text-port{
+    display: flex;
+    gap: 5px;
+    margin-bottom: 3px;
+   border: 1px solid #fd6f00;
+   background-color: #fd6f00;
+   padding:0px 20px ;
+   border-radius: 50px;
+   margin: 10px 9px;
+
+}
+.text-port span{
+    color: #fff;
+}
+
+.text{
+    display: flex;
+    gap: 15px;
+    border: 1px solid #fff;
+  border-radius: 60px;
+  background-color: #343434;
+  margin-top: -65px;
+   
+    
+}
+
+.size-6{
+    width: 22px;
+    height: 22px;
+    margin-top: 12px;
+}
+.text-port h1{
+    font-weight: 300;
+  font-size: 17px;
+  color: #fff;
+}
+.hire h1{
+    color: #fff;
+font-size: 17px;
+font-weight: 300;
+gap: 10px;
+}
+.hire1{
+margin-top: 8px;
+}
+.hire{
+    margin-right: 850px;
+}
